@@ -1,0 +1,453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "newsletter/models.py",
+			"settings":
+			{
+				"buffer_size": 223,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"xml",
+				"Set Syntax: XML"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Sandbox/Django/trydjango18/newsletter/admin.py",
+		"/D/Sandbox/Django/trydjango18/trydjango18/__init__.py",
+		"/D/Sandbox/Django/trydjango18/trydjango18/settings.py",
+		"/D/Sandbox/Django/trydjango18/trydjango18/urls.py",
+		"/D/Sandbox/Django/trydjango18/newsletter/views.py",
+		"/D/Sandbox/Django/trydjango18/newsletter/tests.py",
+		"/D/Sandbox/POSSE/Modules/getShopInfoInRegionNew.py",
+		"/D/Sandbox/POSSE/Model/Task.py",
+		"//vmvpadmanabhan/POSandbox/pyPOS/baseconfig/pyPOSConfig.yml",
+		"//vmdbserver002/pyPOS/pyPOSCustomLib/daily_COD_Generator.py",
+		"/D/Sandbox/POSSE/PosseGUI/GenerateJobsDialog.py",
+		"/D/Sandbox/POSSE/Wrappers/BatchCollectSetsAsGroups_ByGroupByDate_Wrapper.py",
+		"/D/Sandbox/POSSE/Utils/getLiveCams.py",
+		"/D/Sandbox/ExtractAndUploadGetShopAndNodeId/uploadGetShopRgnInfo.py",
+		"/D/Sandbox/POSSE/Modules/getXMLdata.py",
+		"/C/Users/vpadmanabhan/Documents/2015-09-02.002.2.xml",
+		"/D/Sandbox/POSSE/Model/GenerateJobs.py",
+		"/D/Sandbox/ExtractAndUploadGetShopAndNodeId/processVmprojFile.py",
+		"/D/Sandbox/ExtractAndUploadGetShopAndNodeId/createNodeIds.py",
+		"/D/Sandbox/ExtractAndUploadGetShopAndNodeId/uploadNodeIDToDB.py",
+		"/D/Sandbox/ExtractAndUploadGetShopAndNodeId/uploadNodeIDToDB.pyc",
+		"/D/Sandbox/ExtractAndUploadGetShopAndNodeId/2015729_163944_1480_uploadNodeIds_Status.log",
+		"/D/Sandbox/HeatMap experiment/0910_Dwell_Matrix.m",
+		"/D/Sandbox/HeatMap experiment/0102_Dwell_Matrix.m",
+		"//vmnode8/ProjectData1/swy-0413-Phoenix/Data/18_Heat_Maps/Final/_Dwell_Matrix.m",
+		"//vmnode8/ProjectData1/swy-0413-Phoenix/Data/18_Heat_Maps/Final/_Traffic_Matrix.m",
+		"/D/Sandbox/temp/copyofheatmap/_Traffic_Matrix.m",
+		"/D/Sandbox/CSI/Buyer_Scaling/calcBaseBuyerSF.py",
+		"/D/Sandbox/POSSE/Model/validateCams.py",
+		"/D/Sandbox/CSI/Buyer_Scaling/change.py",
+		"//vmdev/Developers/Repository/TheMatrix/Vision/remoteMonitor/adminPortalQuery.py",
+		"//vmdev/Developers/Repository/TheMatrix/Vision/remoteMonitor/asana_wrapper.py",
+		"//vmdev/Developers/Repository/TheMatrix/Vision/remoteMonitor/toggleCameras.py",
+		"//vmdev/Developers/Repository/TheMatrix/Vision/remoteMonitor/asana.py",
+		"/D/Sandbox/remoteMonitor/adminPortalQuery.py",
+		"/D/Sandbox/remoteMonitor/toggleCameras.py",
+		"/D/Sandbox/remoteMonitor/remoteMonitor.py",
+		"/D/Sandbox/remoteMonitor/asana.py",
+		"/D/Sandbox/remoteMonitor/asana_wrapper.py",
+		"/D/Sandbox/remoteMonitor/test.py",
+		"/D/Sandbox/CalibrationDifference/fulltest.py",
+		"/D/Sandbox/POSSE/Modules/TrajectoryCroppers.py",
+		"/D/Sandbox/POSSE/Modules/Trajectory.py",
+		"/D/Sandbox/POSSE/Modules/TrajectoryFilters.py",
+		"/D/Sandbox/GSI FullStore Scaling/test.py",
+		"//vmnode7/ProjectData/swy-1480-Reset-Denver/Documents/optsFiles/1480_optsFile_Tyson.yml",
+		"//vmnode8/ProjectData1/swy-0413-Phoenix/Documents/optsFiles/0413_optsFile_Tyson.yml",
+		"/D/Sandbox/Tinker2.0/optsFile_tinker_501.yml",
+		"/D/Sandbox/Tinker Scaling Factor Adjustment/UploadSFsFromCSV.py",
+		"/D/Sandbox/Tinker2.0/TinkerAdjustment.py",
+		"/D/Sandbox/Tinker2.0/optsFile_tinker_1480.yml",
+		"/D/Sandbox/Tinker2.0/optsFile_tinker_1751.yml",
+		"/D/Sandbox/Tinker2.0/tinker.py",
+		"//vmnode5/ProjectData/kroger-501/Documents/optsFiles/501_optsFile_Tyson.yml",
+		"/D/Sandbox/GSI FullStore Scaling/ComputeScalingFactors.py",
+		"/D/Sandbox/GSI FullStore Scaling/optsFile_compute.yml",
+		"/D/Sandbox/Tinker2.0/optsFile_tinker_0413.yml",
+		"//vmnode4/ProjectData1/ahld-6097-Hershey/Documents/optsFiles/6097_optsFile_TYSON.yml",
+		"/D/Sandbox/Tinker2.0/optsFile_tinker_6097.yml",
+		"/D/Sandbox/Tinker2.0/optsFile_tinker_316.yml",
+		"//vmnode4/ProjectData1/swy-1751-Portland/Documents/optsFiles/1751_optsFile_Tyson.yml",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt_2",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/swy1751/20150517_20150613/Aisles-Perimeter Aisle 01.txt",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt_1",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt_3",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt_4",
+		"/D/Sandbox/POTM Site Setup/optsFiles/optsFile_updatingVisionSettings.yml",
+		"//vmvase/Data/Store Regions/Custom/Tyson-Meat/GetShopRegions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt",
+		"//vmvase/Data/Store Regions/Custom/Tyson-Meat/GetShopRegions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt_2",
+		"//vmvase/Data/Store Regions/Custom/Tyson-Meat/GetShopRegions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt_3",
+		"//vmvase/Data/Store Regions/Custom/Tyson-Meat/GetShopRegions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt_1",
+		"//vmvase/Data/Store Regions/Custom/Tyson-Meat/GetShopRegions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt_4",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/swy1751/20150517_20150613/Categories-Perimeter Aisle 01.txt_5",
+		"//VMIJIANG/Work/ExtractAndUploadGetShopAndNodeId/sampleOptsFile_9779.yml",
+		"//vmnode9/ProjectData/CSI-6/Common/Scripts/optsFile_generateCategoryRegionFiles.yml",
+		"/D/Sandbox/Scripts/DrawTrajWithText.bat",
+		"/D/Sandbox/Scripts/DrawTrajWithText.py",
+		"/D/Sandbox/ExtractAndUploadGetShopAndNodeId/reorgFloorplans.py",
+		"/D/Sandbox/POTM Site Setup/optsFiles/optsFile_createVisionSettings.yml",
+		"/D/Sandbox/POTM Site Setup/optsFiles/optsFile.yml",
+		"/D/Sandbox/POTM Site Setup/optsFiles/optsFile_liveProject.yml",
+		"/D/Sandbox/vmnnayak/Tinker Scaling Factor Adjustment/optsFile_tinker_6097.yml",
+		"//vmnode5/ProjectData/kroger-501/Documents/GetShopRegions_Tyson/20150517_20150613/Categories-Perimeter Aisle 01.txt_1",
+		"//vmnode5/ProjectData/kroger-501/Documents/GetShopRegions_Tyson/20150517_20150613/Categories-Perimeter Aisle 01.txt_2",
+		"/D/Sandbox/vmnnayak/Tinker Scaling Factor Adjustment/tinker.py",
+		"/D/Sandbox/vmnnayak/Tinker Scaling Factor Adjustment/TinkerAdjustment.py",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/ahld6097/20150517_20150613/Categories-Racetrack Region 01.txt",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/ahld6097/20150517_20150613/Categories-Racetrack Region 01.txt_3",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/ahld6097/20150517_20150613/Categories-Racetrack Region 01.txt_2",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/ahld6097/20150517_20150613/Categories-Racetrack Region 01.txt_1",
+		"//vmvase/Data/Store Regions/Custom/Tyson-Meat/GetShopRegions/ahld6097/20150517_20150613/Categories-Perimeter Aisle 01.txt_4",
+		"//VMIJIANG/Work/POSSE optsFiles/501_optsFile_GSI2014_20150102_20150106.yml",
+		"//vmijiang/Work/POSSE optsFiles/501_optsFile_GSI2014_20150102_20150106.yml",
+		"/D/Sandbox/ExtractAndUploadGetShopAndNodeId/opts_1480.yml",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/ahld6097/20150517_20150613/Categories-Racetrack Region 01.txt_4",
+		"/D/Sandbox/ExtractAnnotation/ConfigFile-Template-Tyson.txt",
+		"/D/Sandbox/ExtractAnnotation/ExtractAnnotationData.bat",
+		"/D/Sandbox/parseAnnotationLib/test/opts_Display - Tyson.yml",
+		"/D/Sandbox/ExtractAndUploadGetShopAndNodeId/opts_1751.yml",
+		"//vmnode9/ProjectData/CSI-6/Common/Scripts/generateCategoryRegionFiles.py",
+		"//vmnode10/ProjectData/CSI-6/Common/Scripts/optsFile_generateCategoryRegionFiles.yml",
+		"//vmnode9/ProjectData/vmnburri-CSI5/CSI-5/Scripts/optsFile_generateCategoryRegionFiles.yml",
+		"//vmnode9/ProjectData/vmnburri-CSI5/CSI-5/Scripts/generateCategoryRegionFiles.py",
+		"/D/Sandbox/parseAnnotationLib_oldcopy/test/test_parseAnnotationLib-CSI_Front.py",
+		"/D/Sandbox/parseAnnotationLib/test/test_parseAnnotationLib_Tyson.py",
+		"/D/Sandbox/parseAnnotationLib/test/test_parseAnnotationLib_Display.py",
+		"/D/Sandbox/parseAnnotationLib/test/test_parseAnnotationLib - Tyson.py",
+		"/D/Sandbox/vmnnayak/Tinker Scaling Factor Adjustment/optsFile_tinker_twe_501.yml",
+		"/D/Sandbox/Tinker2.0/Tyson GetShop Regions/ahld6097/20150517_20150613/Categories-Perimeter Aisle 01.txt_1",
+		"/D/Sandbox/GSI FullStore Scaling/getEntranceTrafficAnnotation.py",
+		"/D/Sandbox/POSSE/Modules/getDoorCountsScaleFactors.py",
+		"/D/Sandbox/POSSE/Modules/getDoorCounts.py",
+		"/D/Sandbox/POSSE/Wrappers/GetDoorCountsWrapper.py",
+		"/D/Sandbox/POSSE/Model/sample_opts_file.yml",
+		"/D/Sandbox/POSSE/Modules/MergeCameraDoorCounts.py",
+		"/D/Sandbox/ExtractAnnotation/ConfigFile-Template-GSIEntrance.txt",
+		"//vmjkamei/Sandbox/Scripts/Tinker2.0/optsFile_tinker_316.yml",
+		"/D/Sandbox/Scripts/UploadSFsFromCSV/UploadSFsFromCSV.py",
+		"/D/Sandbox/Tinker2.0/tinker_ignore_list.csv.xlsx",
+		"/D/Sandbox/GSI FullStore Scaling/optsFile_Aisle.yml",
+		"/D/Sandbox/GSI FullStore Scaling/GetAnnotationShoppers.bat",
+		"/D/Sandbox/GSI FullStore Scaling/GetAisleSfs.py",
+		"//vmijiang/Work/GSI FullStore Scaling/optsFile_compute.yml",
+		"//vmijiang/Work/GSI FullStore Scaling/optsFile_Aisle.yml",
+		"//vmijiang/Work/GSI FullStore Scaling/GetAisleSfs.py",
+		"/D/Sandbox/parseAnnotationLib/test/test_parseAnnotationLib.py",
+		"/D/Sandbox/parseAnnotationLib/parseAnnotationLib.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"\\\\vmnnayak\\work\\scripts\\meepo",
+			"\\\\vmxfr\\SFTP_Home\\loopneighborhood",
+			"\\\\vmvase\\Data\\Updated Camera Layouts",
+			"D:\\Sandbox\\POSSE",
+			"\\\\vmnode4\\ProjectData1\\swy-1751-Portland\\Documents\\optsFiles",
+			"D:\\Sandbox\\POSSE",
+			"\\\\vmvpadmanabhan\\POSandbox\\pyPOS",
+			"F:\\AKamthe\\D",
+			"D:\\Sandbox",
+			"\\\\vmdbserver002\\pyPOS",
+			"\\\\vmdbserver002",
+			"\\\\vmdbserver002\\pyPOS",
+			"C:\\pyPOS",
+			"D:\\POSandbox\\Scripts\\ETL\\CSI ETL SCRIPTS",
+			"\\\\vmxfr\\FTP_Home\\thorntons\\test_aggregated",
+			"D:\\Sandbox\\POSSE",
+			"D:\\Sandbox\\ExtractAndUploadGetShopAndNodeId",
+			"D:\\Sandbox\\POSSE",
+			"\\\\vmjkamei\\Sandbox\\Scripts\\Tinker Scaling Factor Adjustment\\GetShopRegions\\1751",
+			"D:\\Sandbox\\Tinker2.0\\Tyson GetShop Regions\\ahld6097\\20150517_20150613"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fetchVideoForDeletionAll",
+			"discou",
+			"Floorplan.CeilingHeight",
+			"getshoputil",
+			"directionOfTravelDir",
+			"fetchDocument_video",
+			"modelBaseBuilder",
+			"fetchDocument_video",
+			"connectToMongo",
+			"modelBaseDataBuilder",
+			"modelBaseBuilder",
+			"coordinate",
+			"1_group_node_mapping",
+			"IF(ROUND(SUM(IF(gallons = 0,qty,gallons)),2) > 0,ROUND(SUM(IF(gallons = 0,qty,gallons)),2),0) AS unit_sold,",
+			"        SELECT\n                HOUR(txn_dt) AS hour_of_day,\n                txn_id,\n                ti.upc_id,\n                IF(ROUND(SUM(IF(gallons = 0,qty,gallons)),2) > 0,ROUND(SUM(IF(ga\nllons = 0,qty,gallons)),2),0) AS unit_sold,\n                IF(ROUND(SUM(net_amount),2) > 0,ROUND(SUM(net_amount),2),0) AS g",
+			"  SELECT\n          DISTINCT prod_id",
+			"  SELECT\n          DISTINCT prod_id\n  FROM\n          1_prod_def",
+			"infile",
+			"char",
+			"latin",
+			"\"DISC\"",
+			"'DISC'",
+			"'DISC'.",
+			"DISC",
+			"DESC",
+			"discrepancies",
+			"specified date",
+			"specified set",
+			"__validateOptsFile",
+			"len of diff keys",
+			"__getLiveCams",
+			"validateCams",
+			"getLiveCams",
+			"findCalibFile",
+			"getXMLdata",
+			"findCalibFile",
+			"getXMLdata",
+			"findCalibFile",
+			"versions_needed",
+			"findCalibFile",
+			"# calibration #",
+			"validateCams",
+			"excep",
+			"getXMLdata",
+			"## calibration ##",
+			"##calibration##",
+			"break",
+			"getLiveCams",
+			"validateCams",
+			"__processStoreEntrances",
+			"StoreEntrances\nStoreEntrances\nStoreEntrances",
+			"StoreEntrances\nStoreEntrances",
+			"StoreEntrances",
+			"UploadVmprojNodeIdInfo",
+			"UploadNodeIdInfo",
+			"UploadVmprojNodeIdInfo",
+			"createNodeIds",
+			"createNodeIds.py",
+			"entrance",
+			"something !!!!!@@@@#######$$$$$$$$",
+			"breaking",
+			"breaking!!",
+			"dateRange",
+			"getliveCams",
+			"validateCam",
+			"pos",
+			"2210",
+			"jk",
+			"create_check_dict_ON",
+			"add_fac_to_asana",
+			"db",
+			"get_ON_list",
+			"sql_cam_not_recording",
+			"get_ON_list",
+			"sql_cam_not_recording",
+			"change_list",
+			"add_fac_to_asana",
+			"path",
+			"join",
+			"now",
+			"today",
+			"_holefill_store_traffic",
+			"_holefill_and_update_full_data",
+			"_holefill_store_traffic",
+			"ahld",
+			"removed",
+			"removedf",
+			"removed",
+			"computeScalingFactors",
+			"something went wrong",
+			"_holefill_store_traffic",
+			"get_old_store_traffic",
+			"_holefill_store_traffic",
+			"_getAisleData",
+			"_getNodeIds",
+			"_getAisleData",
+			"_tinker_mp",
+			"aisle_list",
+			"key == 'heirarchy'",
+			"aisle_list",
+			"_holefill_and_update_full_data",
+			"the follow",
+			"ParseVmproj",
+			"mapIdTableName",
+			"CONTROLLER",
+			"7961",
+			"__compute_entrance",
+			"4768",
+			"_heirarchy_mp",
+			"heirarchy_mp",
+			"__debug",
+			"GetDoorCountsScaleFactorsWrapper",
+			"sf",
+			"get_old_store_traffic",
+			"holefilled",
+			"with",
+			"__makeDict",
+			"main",
+			"__makeDict",
+			"get_category_map",
+			"findCalibFile",
+			"getXMLdata",
+			"findCalibFile",
+			"getXMLdata",
+			"Exception",
+			"live_cam_nums",
+			"live_cam",
+			"live"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"1480",
+			"1751"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "newsletter/models.py",
+					"settings":
+					{
+						"buffer_size": 223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
